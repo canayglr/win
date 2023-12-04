@@ -1,0 +1,2 @@
+# win
+İnternetsiz Windows Kurulumu
